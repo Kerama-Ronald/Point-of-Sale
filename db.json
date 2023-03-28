@@ -42,9 +42,8 @@
        "Price"      : " Ksh.160 per kilo",
       "Product SKU" : "APP.227RT"
    }
-    ]
-   }
-   {
+    ],
+   
        "ELECTRONICS" : [
       {"Product Name" : "Samsung" ,
          "Category"    : "Television" ,
