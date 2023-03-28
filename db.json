@@ -1,4 +1,62 @@
 {
+    "FRUITS" : [
+   {"ProductID": 1,
+    "ProductName" : "Apple" ,
+      "Category"    : "Fruits" ,
+      "Description" : "Imported" ,
+       "Price"      : " Ksh.330 per kilo",
+      "ProductSKU" : "APP.167RT"
+      
+   },
+    {   "ProductID": 2,
+        "ProductName" : "Grapes" ,
+      "Category"    : "Fruits" ,
+      "Description" : "Green seedless" ,
+       "Price"      : " Ksh.395 per kilo",
+      "ProductSKU" : "GPG.177RT"
+     
+    },
+    { "ProductID": 3,
+     "ProductName" : "Mangoes" ,
+      "Category"    : "Fruits" ,
+      "Description" : "Apple Mangoes (Drafted)" ,
+       "Price"      : " Ksh.90 per kilo",
+      "ProductSKU" : "MPP.187RT"
+     
+   },
+   {  "ProductID": 4,
+     "ProductName" : "Kiwi" ,
+      "Category"    : "Fruits" ,
+      "Description" : "Imported" ,
+       "Price"      : " Ksh.580 per kilo",
+      "ProductSKU" : "KPP.197RT"
+     
+   },
+   { "ProductID": 5,  
+    "ProductName" : "Pomegranate" ,
+      "Category"    : "Fruits" ,
+      "Description" : "Red fleshy" ,
+       "Price"      : " Ksh.1800 per kilo",
+      "ProductSKU" : "PPP.207RT"
+     
+   },
+   {   "ProductID": 6,
+     "ProductName" : "Oranges" ,
+      "Category"    : "Fruits" ,
+      "Description" : "Imported" ,
+       "Price"      : " Ksh.450 per kilo",
+      "ProductSKU" : "0PP.217RT"
+    
+   },
+   {"ProductID": 7,  
+    "ProductName" : "Avocados" ,
+      "Category"    : "Fruits" ,
+      "Description" : "Seedless" ,
+       "Price"      : " Ksh.160 per kilo",
+      "ProductSKU" : "APP.227RT"
+   }
+    ],
+   
        "ELECTRONICS" : [
       { "ProductID": 1,
         "ProductName" : "Samsung" ,
@@ -30,8 +88,11 @@
           "Price"      : " Ksh.65000",
          "ProductSKU" : "LAP.87RT"
       },
-      {  "ProductID": 5,
+      {  "ProductID": 12,
          "ProductName" : "XT-GI" ,
+=======
+      {  "Product_Name" : "XT-GI" ,
+>>>>>>> Stashed changes
          "Category"    : "Power bank" ,
          "Description" : "10000mA, black,slim" ,
           "Price"      : " 1800",
@@ -51,5 +112,5 @@
           "Price"      : " Ksh.3000 ",
          "ProductSKU" : "APP.57RT"
       }
-       ]
-      }
+       ];
+    }
