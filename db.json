@@ -1,91 +1,113 @@
 {
     "FRUITS" : [
-   {"Product Name" : "Apple" ,
+   {"ProductID": 1,
+    "ProductName" : "Apple" ,
       "Category"    : "Fruits" ,
       "Description" : "Imported" ,
        "Price"      : " Ksh.330 per kilo",
-      "Product SKU" : "APP.167RT"
+      "ProductSKU" : "APP.167RT"
+      
    },
-    {  "Product Name" : "Grapes" ,
+    {   "ProductID": 2,
+        "ProductName" : "Grapes" ,
       "Category"    : "Fruits" ,
       "Description" : "Green seedless" ,
        "Price"      : " Ksh.395 per kilo",
-      "Product SKU" : "GPG.177RT"
+      "ProductSKU" : "GPG.177RT"
+     
     },
-    {  "Product Name" : "Mangoes" ,
+    { "ProductID": 3,
+     "ProductName" : "Mangoes" ,
       "Category"    : "Fruits" ,
       "Description" : "Apple Mangoes (Drafted)" ,
        "Price"      : " Ksh.90 per kilo",
-      "Product SKU" : "MPP.187RT"
+      "ProductSKU" : "MPP.187RT"
+     
    },
-   {  "Product Name" : "Kiwi" ,
+   {  "ProductID": 4,
+     "ProductName" : "Kiwi" ,
       "Category"    : "Fruits" ,
       "Description" : "Imported" ,
        "Price"      : " Ksh.580 per kilo",
-      "Product SKU" : "KPP.197RT"
+      "ProductSKU" : "KPP.197RT"
+     
    },
-   {  "Product Name" : "Pomegranate" ,
+   { "ProductID": 5,  
+    "ProductName" : "Pomegranate" ,
       "Category"    : "Fruits" ,
       "Description" : "Red fleshy" ,
        "Price"      : " Ksh.1800 per kilo",
-      "Product SKU" : "PPP.207RT"
+      "ProductSKU" : "PPP.207RT"
+     
    },
-   {  "Product Name" : "Oranges" ,
+   {   "ProductID": 6,
+     "ProductName" : "Oranges" ,
       "Category"    : "Fruits" ,
       "Description" : "Imported" ,
        "Price"      : " Ksh.450 per kilo",
-      "Product SKU" : "0PP.217RT"
+      "ProductSKU" : "0PP.217RT"
+    
    },
-   {  "Product Name" : "Avocados" ,
+   {"ProductID": 7,  
+    "ProductName" : "Avocados" ,
       "Category"    : "Fruits" ,
       "Description" : "Seedless" ,
        "Price"      : " Ksh.160 per kilo",
-      "Product SKU" : "APP.227RT"
+      "ProductSKU" : "APP.227RT"
    }
     ],
    
        "ELECTRONICS" : [
-      {"Product Name" : "Samsung" ,
+      { "ProductID": 8,
+        "ProductName" : "Samsung" ,
          "Category"    : "Television" ,
          "Description" : "Curved  55' QLED, Nano technology" ,
           "Price"      : " Ksh.580,000",
-         "Product SKU" : "SPP.107RT"
+         "ProductSKU" : "SPP.107RT"
+        
       },
-       {  "Product Name" : "Hisense" ,
+       {   "ProductID": 9, 
+         "ProductName" : "Hisense" ,
          "Category"    : "Fridge" ,
          "Description" : "Two door with automic water dispenser , no frost" ,
           "Price"      : " Ksh.175,0000 ",
-         "Product SKU" : "HPG.177RT"
+         "ProductSKU" : "HPG.177RT"
+      
        },
-       {  "Product Name" : "LG" ,
+       { "ProductID": 10,  
+        "ProductName" : "LG" ,
          "Category"    : "Microwave" ,
          "Description" : "Silver, advanced warming" ,
           "Price"      : " Ksh.100090 ",
-         "Product SKU" : "LPP.97RT"
+         "ProductSKU" : "LPP.97RT"
       },
-      {  "Product Name" : "Lenovo" ,
+      {  "ProductID": 11,
+         "ProductName" : "Lenovo" ,
          "Category"    : "Lpatop" ,
          "Description" : "i9 processor,16 GB Ram, ideapad 3 , touchscreen" ,
           "Price"      : " Ksh.65000",
-         "Product SKU" : "LAP.87RT"
+         "ProductSKU" : "LAP.87RT"
       },
-      {  "Product Name" : "XT-GI" ,
+      {  "ProductID": 12,
+         "ProductName" : "XT-GI" ,
          "Category"    : "Power bank" ,
          "Description" : "10000mA, black,slim" ,
           "Price"      : " 1800",
-         "Product SKU" : "XPP.77RT"
+         "ProductSKU" : "XPP.77RT"
       },
-      {  "Product Name" : "Apple" ,
+      {  "ProductID": 13, 
+        "ProductName" : "Apple" ,
          "Category"    : "Smart watch" ,
          "Description" : "Gen 4,M1 processor" ,
           "Price"      : " Ksh.45000 ",
-         "Product SKU" : "APP.67RT"
+         "ProductSKU" : "APP.67RT"
       },
-      {  "Product Name" : "Xiamio" ,
+      {  "ProductID": 14,
+         "ProductName" : "Xiamio" ,
          "Category"    : "Ear buds" ,
          "Description" : "Wireless,long range BT , good bass" ,
           "Price"      : " Ksh.3000 ",
-         "Product SKU" : "APP.57RT"
+         "ProductSKU" : "APP.57RT"
       }
        ]
       }
